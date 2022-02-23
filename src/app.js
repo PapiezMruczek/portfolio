@@ -91,7 +91,7 @@ const projects = [
     },
     {
         name: "Cat",
-        src: "src/images/cat.png",
+        src: "src/images/Cat.png",
         description: "Cat's face drawing. Used only Illustrator tools.",
         colorsUsed: ["#F7F4EA", "#E7DECD", "#E7DECD", "#E0AFA0", "#2E2E2E"],
     },
