@@ -144,7 +144,7 @@ const projects = [
     {
         name: "Autumn - website slider",
         src: "src/images/Autumn.png",
-        description: "Website slider for clothes brand. Used only Illustrator tools. ",
+        description: "Website slider for clothes brand. Used only Illustrator tools. Photos by Eyup Beyhan from Pexels ",
         colorsUsed: ["#FFE8D6", "#CB997E", "#2D2928"],
         wide: true
     },
