@@ -3,37 +3,20 @@ const projects = [
         name: "World Wide Web",
         src: "src/images/World Wide Web.png",
         description:
-            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, ",
+            "A combination of Futuristic and 80's. I used 3D question mark (using 3D effects in Illustrator) and sphere mesh.",
         colorsUsed: ["#c158c1", "#161034", "#58a7e6"],
-        subImages: [
-            {
-                name: 'Subimage 1',
-                src: "src/images/World Wide Web.png"
-            },
-            {
-                name: 'Subimage 1',
-                src: "src/images/Sadness.png"
-            },
-            {
-                name: 'Subimage 1',
-                src: "src/images/Butterfly.png"
-            },
-            {
-                name: 'Subimage 1',
-                src: "src/images/Penguin.png"
-            }
-        ]
+
     },
     {
         name: "Sadness",
         src: "src/images/Sadness.png",
-        description: "I am sad",
+        description: "Cover album design. I used RGB setting in Photoshop for destroy effect. Rest of art was created by Ilustrator tools.",
         colorsUsed: ["#5FBB9D", "#2E98D5", "#B573AE", "#DADADA", "#020202"],
     },
     {
         name: "Butterfly",
         src: "src/images/Butterfly.png",
-        description: "I am sad",
+        description: "Butterfly logo with trendy gradient. I create that only in use of circles and shape build tool in Illustrator. ",
         colorsUsed: [
             "#F4CE87",
             "#8D66DD",
@@ -49,7 +32,7 @@ const projects = [
     {
         name: "Penguin",
         src: "src/images/Penguin.png",
-        description: "I am sad",
+        description: "Penguin design. I create that only in use of circles and shape build tool in Illustrator.",
         colorsUsed: [
             "#CAF0F8",
             "#D9ED92",
@@ -61,22 +44,26 @@ const projects = [
         ],
     },
     {
-        name: "WIDE JESIEN",
-        src: "src/images/nowa jesien5.png",
-        description: "I am sad",
-        colorsUsed: ["#D1D2BC", "#666D4A", "#333D29"],
-        wide: true
+        name: "Squirrel",
+        src: "src/images/Squirrel.png",
+        description: "Cozzy Squirrel with twinkling stars. On the background I used dreamy muted radial gradient. Squirrel was created only in use of circles and shape builder tool in Illustrator.  ",
+        colorsUsed: [
+            "#EDE0D4",
+            "#BCA18E",
+            "#FFE4CC",
+            "#2E6CCB2"
+        ],
     },
     {
         name: "Leaf logo",
         src: "src/images/Leaf logo.png",
-        description: "I am sad",
+        description: "Circle clover leaves logo.  ",
         colorsUsed: ["#D1D2BC", "#666D4A", "#333D29"],
     },
     {
         name: "Doctor - social media post",
         src: "src/images/Doctor.png",
-        description: "I am sad",
+        description: "Doctor Social media post design. Simply doctor illustration was created by myself with Illustrator tools. ",
         colorsUsed: [
             "#FFFBF8",
             "#FFF2E6",
@@ -99,9 +86,76 @@ const projects = [
     {
         name: "Oranges - social media post",
         src: "src/images/Oranges.png",
-        description: "I am sad",
+        description: "Fruit social media post design. Used only Illustrator tools.",
         colorsUsed: ["#D1D2BC", "#666D4A", "#333D29"],
     },
+    {
+        name: "Cat",
+        src: "src/images/cat.png",
+        description: "Cat's face drawing. Used only Illustrator tools.",
+        colorsUsed: ["#F7F4EA", "#E7DECD", "#E7DECD", "#E0AFA0", "#2E2E2E"],
+    },
+    {
+        name: "Racoon",
+        src: "src/images/Racoon.png",
+        description: "Racoon's face drawing. Used only Illustrator tools.",
+        colorsUsed: ["#FCD5CE", "#EAEAEA", "#C5C3C6", "#46494C", "#2E2E2E"],
+    },
+    {
+        name: "Shiba Inu",
+        src: "src/images/Shiba.png",
+        description: "Shiba's Inu face drawing. Used only Illustrator tools.",
+        colorsUsed: ["#FFD5F1", "#FFDA9E", "#C79967", "#292B2E"],
+    },
+    {
+        name: "Pig",
+        src: "src/images/Pig.png",
+        description: "Pig's face drawing. Used only Illustrator tools.",
+        colorsUsed: ["#FFF8FA", "#FFCCD5", "#DC9AA5", "#FF758F", "#2F2F2F"],
+    },
+    {
+        name: "Happy New Year - card",
+        src: "src/images/happy new year.png",
+        description: "Christmas Card for Facebook post. Used only Illustrator tools.",
+        colorsUsed: ["#66C0B3", "#47B7A7", "#00A17F", "#398E80", "#097864", "#333D29", '#303033'],
+    },
+    {
+        name: "Merry Christmas - card",
+        src: "src/images/Merry Christmas.png",
+        description: "New Year Card for Facebook post. Used only Illustrator tools.",
+        colorsUsed: ["#7C2725", '#571C1D'],
+    },
+    {
+        name: "Flower - instagram post",
+        src: "src/images/Flower post 1.png",
+        description: "Flower instagram post design. Used only Photoshop tools.",
+        colorsUsed: ["#E9E9E9", "#D5D5D5", "#696969", "#E6AAC2", "#5C2B3F", "#C20000", "#71C786", "#B1A251" ],
+        subImages: [
+            {
+                name: 'Subimage 1',
+                src: "src/images/Flower post 2.png"
+            },
+            {
+                name: 'Subimage 1',
+                src: "src/images/Flower post 3.png"
+            },
+        ]
+    },
+    {
+        name: "Autumn - website slider",
+        src: "src/images/Autumn.png",
+        description: "Website slider for clothes brand. Used only Illustrator tools. ",
+        colorsUsed: ["#FFE8D6", "#CB997E", "#2D2928"],
+        wide: true
+    },
+
+    // {
+    //     name: "Gradient Overlay",
+    //     src: "src/images/Gradient Overlay.png",
+    //     description: "I am sad",
+    //     colorsUsed: ["#EABFFA", "#E4C3F9", "#874AFE"],
+    // },
+
 ];
 
 const createEnlargeButton = (href) => {

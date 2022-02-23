@@ -168,6 +168,7 @@ h3 {
     box-shadow: 2px 2px 10px rgb(206, 206, 206);
     margin: 10px;
     position: relative;
+    margin-bottom: 4em;
 }
 
 .project-card.project-card-wide {
