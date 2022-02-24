@@ -55,7 +55,8 @@ h2 {
   font-family: new-order, sans-serif;
   font-weight: 700;
   font-style: normal;
-  margin-top: 60px;
+  margin-top: 70px;
+  margin-bottom: 0;
 }
 
 h3 {
@@ -159,6 +160,10 @@ h3 {
   padding-left: 20px;
 }
 
+.about-me {
+    display: flex;
+    justify-content: space-between;
+}
 
 .project-card {
   width: 400px;
@@ -493,6 +498,9 @@ a {
 
 .information p {
     grid-area: text;
+    font-size: 2.5vmin;
+    line-height: 1.4em;
+
 }
 
 .information .headshot-container {
@@ -502,3 +510,4 @@ a {
 .information .skills {
     grid-area: skills;
 }
+
