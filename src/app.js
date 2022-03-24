@@ -154,7 +154,7 @@ const projects = [
         colorsUsed: ["#ffffff", "#5ea99c", "#299b7b", "#00472f", "#ea4f48", "#e73332", "#000000" ],
     },
     {
-        name: "Daisy - Women's day graphi",
+        name: "Daisy - Women's day graphic",
         src: "src/images/daisy.png",
         description: "Daisy pattern for women's day. Can be used as social media post.",
         colorsUsed: ["#ffffff", "#fff6b8", "#94c991", "#918787", "#d5ecfb" ],
