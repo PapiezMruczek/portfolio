@@ -87,7 +87,7 @@ const projects = [
         name: "Oranges - social media post",
         src: "src/images/Oranges.png",
         description: "Fruit social media post design. Used only Illustrator tools.",
-        colorsUsed: ["#D1D2BC", "#666D4A", "#333D29"],
+        colorsUsed: ["#fcc05e", "#dba049", "#ffa310", "#f28f00", "#f9705f", "#e25247", "#ffb226", "#f76e5f", "#c65c54", "#191919"],
     },
     {
         name: "Cat",
@@ -140,6 +140,36 @@ const projects = [
                 src: "src/images/Flower post 3.png"
             },
         ]
+    },
+    {
+        name: "PIXEL - logo concept",
+        src: "src/images/pixel_logo.png",
+        description: "Concept of logo for student science Club. The club associates people who are interesting in graphic 2D/3D. Old logo had 3 cubes in 3D styles and single letters on every face. ",
+        colorsUsed: ["#2278fb", "#6bdfdb", "#1e5cfd", "#8e1bfb", "#fd3463", "#ffaa00", "#2b2d42", "#ffffff" ],
+    },
+    {
+        name: "Lips - women's day graphic",
+        src: "src/images/Lips.png",
+        description: "Retro graphic of lips for women's day.",
+        colorsUsed: ["#ffffff", "#5ea99c", "#299b7b", "#00472f", "#ea4f48", "#e73332", "#000000" ],
+    },
+    {
+        name: "Daisy - Women's day graphi",
+        src: "src/images/daisy.png",
+        description: "Daisy pattern for women's day. Can be used as social media post.",
+        colorsUsed: ["#ffffff", "#fff6b8", "#94c991", "#918787", "#d5ecfb" ],
+    },
+    {
+        name: "Women's day photo frame",
+        src: "src/images/wm_frame.png",
+        description: "Geometric beige aesthetic frame for photo on women's day. Square in the middle is empty because it can be cut of.",
+        colorsUsed: ["#ffffff", "#feecdc", "#474344", "#daced3", "#e7ddd4" ],
+    },
+    {
+        name: "Line - Women's day graphic",
+        src: "src/images/wm_line.png",
+        description: "Geometric beige aesthetic frame for photo on women's day. Square in the middle is empty because it can be cut of.",
+        colorsUsed: ["#ffffff", "#fbc171", "#f8c2b6", "#ef7b69", "#f8c2b6", "#fdcd83", "#1d1d1b" ],
     },
     {
         name: "Autumn - website slider",
