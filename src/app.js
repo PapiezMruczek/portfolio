@@ -1,5 +1,11 @@
 const projects = [
     {
+        name: "Flower pattern",
+        src: "src/images/flower-pattern.png",
+        description: "Flower pattern for linkedin background. Created by Illutrator tools.",
+        colorsUsed: ["#F5F5F5", "#E8C595", "#F65C78", "#FF616D", "#D95858", "#E41655", "#2EB086", "#121212" ],
+    },
+    {
         name: "World Wide Web",
         src: "src/images/World Wide Web.png",
         description:
