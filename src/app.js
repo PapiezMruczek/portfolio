@@ -1,5 +1,11 @@
 const projects = [
     {
+        name: "Instagram ads post",
+        src: "src/images/gjt-insta-post.png",
+        description: "Instagram ads post created for study project. Gimme-job.today will be web application for find a job for people without experience. Created by Illutrator tools.",
+        colorsUsed: ["#FFFFFFF", "#F7F7F7", "#FFD166", "#202020", ],
+    },
+    {
         name: "Flower pattern",
         src: "src/images/flower-pattern.png",
         description: "Flower pattern for linkedin background. Created by Illutrator tools.",
