@@ -1,5 +1,16 @@
 const projects = [
     {
+        name: "Polar bear - vector art",
+        src: "src/images/polar-bear.png",
+        description: "Polar bear ilustration which I vectorized from bitmap. I made this only with Ai tools. The original bitmap art was created by my friend from science club. Her instagram: https://www.instagram.com/swigittys/. Check below to see the original.",
+        colorsUsed: ["#e9eaee", "#f3f2f9", "#ffefff", "#d0c7ff", "#f9d3ff", "#cdc2ff", "#a5def0", "#8bc2f2", "#a4c7f3", "#8197f8",  "#af90eb", "#9184ec", "#121212", "#351e5f", "#231248", "#352165", "#2d194c", "#1b0f38", "#1a0d37"],
+        subImages: [
+            {
+                name: 'Subimage 1',
+                src: "src/images/polar-bear-original.png"
+            },]
+    },
+    {
         name: "Instagram ads post",
         src: "src/images/gjt-insta-post.png",
         description: "Instagram ads post created for study project. Gimme-job.today will be web application for find a job for people without experience. Created by Illutrator tools.",
